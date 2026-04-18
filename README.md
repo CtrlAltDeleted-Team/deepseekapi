@@ -14,6 +14,7 @@
 Управление историей — создание новых чатов
 
 Установка
+
 git clone https://github.com/CtrlAltDeleted-Team/deepseekapi.git
 cd deepseekapi
 pip install -r requirements.txt
